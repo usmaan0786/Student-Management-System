@@ -1,5 +1,3 @@
-# PHP-Practice-Project
-
 # Student Management System
 
 ![1](https://user-images.githubusercontent.com/72275107/235318151-00a21e98-0ae3-4037-b5cd-8da1930a4845.png)
